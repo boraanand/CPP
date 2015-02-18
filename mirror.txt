@@ -1,0 +1,29 @@
+ Rules of reflection for concave mirrors are:
+
+ 1)Any incident ray traveling parallel to the principal axis
+ on the way to the mirror will pass through the focal
+ point upon reflection.
+
+ 2)Any incident ray passing through the focal point on 
+ the way to the mirror will travel parallel to the principal
+ axis upon reflection.
+
+ The focal point is the point in space at which light 
+ incident towards the mirror and traveling parallel to 
+ the principal axis will meet after reflection. 
+ The diagram at the right depicts this principle. 
+ In fact, if some light from the Sun was collected by a 
+ concave mirror, then it would converge at the focal 
+ point. Because the Sun is such a large distance from
+ the Earth, any light rays from the Sun which strike the 
+ mirror will essentially be traveling parallel to the 
+ principal axis. As such, this light should reflect through
+ the focal point. Perhaps you remember the outdoors 
+ demonstration in which a pencil was engulfed in flames
+ in a matter of seconds when placed at the focal point of 
+ the demonstration mirror. In the demonstration, 
+ whatever light from the Sun which hit the mirror was 
+ focused at the point where the pencil was. 
+ To the surprise of many, the heat was sufficient 
+ to ignite the pencil. Wow! 
+ 

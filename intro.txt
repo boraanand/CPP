@@ -1,0 +1,68 @@
+ Light has long captured the fascination of humankind
+ and although we take phenomena such as reflection,
+ refraction, diffraction and interference for
+ granted, it is not hard to see why they posed 
+ perplexing problems throughout most of history. 
+ Why should light bend upon entering water? Why does
+ light spread out after passing through a narrow gap?
+ How does light travel to us from the sun, through 
+ the void of space? These sorts of questions have 
+ ensured that optics has a long and engaging history;
+ mirrors were known to the ancients, eyeglasses were
+ known by the thirteenth century, and, of course,
+ the telescope was invented by Galileo around 1608.
+ The law of refraction was discovered by Willebrord
+ Snell in 1621 and the phenomenon of diffraction was
+ observed by both Francesco Maria Grimaldi and 
+ Robert Hooke by the mid-1600s. Sir Isaac Newton 
+ made great contributions to optics, proposing that
+ 'white light' was a combination of all colors, and
+ formulating a particle, or corpuscular, theory of
+ light. At roughly the same time (the latter half of
+ the seventeenth century), the Dutch physicist 
+ Christian Huygens proposed a powerful wave theory 
+ of light. As we shall discover, most of the history
+ of optics is dominated by the debate over the nature
+ of light: is light a particle or a wave, or is it
+ something in between (a wavicle?)?Another important
+ figure in the history of optics is Thomas Young,
+ an Englishman who revived the wave theory at the 
+ beginning of the nineteenth century by adding to 
+ it the principle of superposition. The French 
+ scientist Augustin Jean Fresnel, also an advocate of
+ the wave theory, proposed a mechanistic description 
+ of light on the basis of it being a transverse 
+ oscillation through the ether, rather than a 
+ longitudinal one as had previously been assumed.
+ The corpuscular theory seemed in very bad shape 
+ indeed. By 1845 Michael Faraday had performed several
+ experiments showing that the plane of polarization 
+ could be altered by magnetic fields. This ultimately 
+ led to James Clerk Maxwell's brilliant unification of 
+ optics and electromagnetism, when his wave equations 
+ predicted that the speed of light should be 1/, which
+ was remarkably close to the experimental value.
+ Light, then, was an electromagnetic disturbance
+ propagating through the ether.As a wave, however, 
+ light must have a medium through which to propagate.
+ Towards the end of the nineteenth century this 
+ medium, called the ether, became increasingly 
+ problematic; experiments by Michelson and Morley 
+ in particular could detect no motion of the ether 
+ relative to the earth. Such considerations led to 
+ Einstein's theory of special relativity and to the 
+ discarding of the idea of the ether altogether. 
+ Moreover, as the twentieth century progressed,
+ quantum mechanics showed that all particles have 
+ a wavelike property; the distinction between waves
+ and particles became less and less clear.
+ In this guide we will treat light usually as a wave,
+ but sometimes as a particle, and as a general rule 
+ it is both or either. First, we will examine light 
+ as a wave, the relationship between light and 
+ electromagnetism, and gain some insight into how
+ light interacts with matter. In the second topic, 
+ we will apply the laws of reflection and refraction
+ to geometric optics. Finally, we will consider the 
+ important phenomena of interference, diffraction,
+ and polarization. 

@@ -1,0 +1,63 @@
+ Refraction means the bending of a wave resulting from
+ a change in its velocity as its moves from one medium
+ to another. Since the frequency of a wave cannot 
+ change, independent of the source changing its 
+ frequency when it originally emits a wave, this change
+ in wave velocity must result from a change in its 
+ wavelength in the second medium.
+
+
+ To quantify the degree of refraction, we will
+ introduce a dimensionless quantity called the 
+ index of refraction, n.
+
+ 
+                  n = c/v
+ 
+ In this formula,
+
+    * c is the speed of alight in a vacuum, 3 x 108 m/sec
+    * v represents the average speed of light in the 
+        optically dense medium
+    * n is the medium's index of refraction
+
+ 
+
+
+
+ This defining formula can be easily modified to 
+ describe the changes that occur in wavelength during 
+ refraction.
+ 
+      n =  c/v
+      n =  (fxwavelength)/(fxwavelength in medium)
+      n =  wavelength/wavelength in medium
+ 
+ Notice that the frequency, f, cancels since it is an 
+ invariant and does not depend on the medium through
+ which the wave is traveling.
+
+
+
+
+
+
+ Some common indices of refraction for a midrange 
+ wavelength of light (589 nm, a prominent line in 
+ the emission spectrum of sodium) are:
+ 
+
+ vacuum - 1.00000  , fused quartz - 1.46 
+
+ air(STP) - 1.00029 , crown glass - 1.52
+
+ water(20ºC) - 1.33 , polystyrene - 1.55
+
+ acetone - 1.36 , carbon disulfide - 1.63
+
+ ethyl alcohol - 1.36 , flint glass (heavy) - 1.65
+
+ sugar solution(30%) - 1.38 , sapphire - 1.77
+
+ sugar solution(80%) - 1.49 , diamond - 2.42
+   
